@@ -1,0 +1,27 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+pandas>=3.0
+numpy
+scikit-learn
+joblib
+shap
+
+sqlalchemy
+
+pypdf
+chromadb
+pytest
+
+langgraph
+langgraph-checkpoint-sqlite
+google-genai
+python-dotenv
+
+fastapi
+uvicorn
+pydantic
+httpx
+streamlit
+requests
+
+pytest
